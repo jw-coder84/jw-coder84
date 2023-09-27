@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <hr>
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/jonathan-w-a9166b55/">
+<a href="https://www.linkedin.com/in/jonathanwenn/">
  
  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
  
