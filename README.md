@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <hr>
 
 ## About Me
+* Oeson Data Analyst Training and Internship Program
 * Diploma in Full Stack Software Development (Predictive Analytics)
 * Lean Data Analysis with Pandas course - Codecademy
 * Learn Python 3 - Codecademy
